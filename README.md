@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### 🏆 Trophy 🏆
+  
+[![trophy]([https://github-profile-trophy.vercel.app/?username=jaehui327&column=8&theme=juicyfresh](https://github-profile-trophy.vercel.app/?username=thereisnotruth&column=8&theme=flat))](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Thereisnotruth/Thereisnotruth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
